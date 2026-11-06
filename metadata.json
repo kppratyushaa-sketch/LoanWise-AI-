@@ -1,0 +1,8 @@
+{
+  "name": "LoanWise AI – AI-Based Loan Eligibility & Risk Assessment System",
+  "description": "Intelligent FinTech decision-support platform assessing loan eligibility, credit risk scores, debt burdens, and explainable AI recommendations using Google Gemini and financial calculation engines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
